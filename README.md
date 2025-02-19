@@ -29,3 +29,4 @@ To run the rust files:
 ```bash
 cargo run --bin <filename without .rs>
 ```
+
